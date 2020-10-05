@@ -1,0 +1,12 @@
+footer {
+    color: red;
+    font-size: default;
+    background-color: yellow;
+    text-decoration-line: overline;
+
+}
+h1 {
+    color: yellowgreen;
+    text-decoration: underline;
+    font-style: italic;
+}
